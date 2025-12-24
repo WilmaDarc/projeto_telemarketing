@@ -37,8 +37,9 @@ comando para rodar se o programa tiver uma informação de ajuda
 
 Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
-Wilma Farias
-[@wilmafarias](www.linkedin.com/in/wilma-farias-66a15962)
+ex.Wilma Farias
+
+ex.[@wilmafarias](www.linkedin.com/in/wilma-farias-66a15962)
 
 
 ## Histórico de versões.
