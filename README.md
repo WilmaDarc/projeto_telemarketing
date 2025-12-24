@@ -39,7 +39,7 @@ Nomes dos desenvolvedores do projeto e informação para entrar em contato.
 
 ex.Wilma Farias
 
-ex.[@wilmafarias](www.linkedin.com/in/wilma-farias-66a15962)
+ex.[@wilmafarias](www.linkedin.com/in/wilma-farias-66a15962/)
 
 
 ## Histórico de versões.
